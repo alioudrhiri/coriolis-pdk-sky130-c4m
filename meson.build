@@ -20,6 +20,7 @@ cells_files = [ techDir + 'coriolis/sky130/StdCell5V0Lib.py'
               , techDir + 'coriolis/sky130/__init__.py'
               , techDir + 'coriolis/sky130/techno.py'
               , techDir + 'coriolis/sky130/techno_fix.py'
+              , techDir + 'coriolis/sky130/spimodel.cfg'
               ]
 
 core2chip_files = [ techDir + 'coriolis/sky130/core2chip/__init__.py'
